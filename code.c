@@ -1,5 +1,3 @@
-//Program to 
-
 #define leftFarSensor      13
 
 #define leftNearSensor     12
